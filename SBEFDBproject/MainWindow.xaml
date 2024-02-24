@@ -1,0 +1,68 @@
+﻿<Window x:Class="SBEFDBproject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SBEFDBproject"
+        mc:Ignorable="d"
+        Title="MainWindow" 
+        Height="450" 
+        Width="800"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="gridView"
+            IsSynchronizedWithCurrentItem="True"
+            Grid.Column="0"
+            ItemsSource="{Binding Customers}"
+            SelectedItem="{Binding SelectedCustomer}"
+            SelectionMode="Single"
+            AutoGenerateColumns="false"
+            IsReadOnly="False">
+            
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="id"
+                        Binding="{Binding Id, UpdateSourceTrigger=PropertyChanged}"
+                        Header="ID"
+                        />
+                <DataGridTextColumn x:Name="secondName"
+                        Binding="{Binding SecondName, UpdateSourceTrigger=PropertyChanged}"
+                        Header="Second Name"/>
+                <DataGridTextColumn x:Name="name"
+                        Binding="{Binding Name, UpdateSourceTrigger=PropertyChanged}"
+                        Header="Name"/>
+                <DataGridTextColumn x:Name="patronymic"
+                        Binding="{Binding Patronymic, UpdateSourceTrigger=PropertyChanged}"
+                        Header="Patronymic"/>
+                <DataGridTextColumn x:Name="phone"
+                        Binding="{Binding Number, UpdateSourceTrigger=PropertyChanged}"
+                        Header="Phone Number"/>
+                <DataGridTextColumn x:Name="email"
+                        Binding="{Binding Email, UpdateSourceTrigger=PropertyChanged}"
+                        Header="Email"/>
+            </DataGrid.Columns>
+            <DataGrid.ContextMenu>
+                <ContextMenu>
+                    <MenuItem x:Name="newItem" Header="Add new" Command="{Binding OpenNCForm}"/>
+                    <MenuItem x:Name="editItem" Header="Edit" Click="Edit_Click"/>
+                    <MenuItem x:Name="deleteItem" Header="Delete" Click="Delete_Click"/>
+                    <MenuItem x:Name="ordersItem" Header="New Order" Click="NewOrder_Click"/>
+
+                </ContextMenu>
+            </DataGrid.ContextMenu>
+
+        </DataGrid>
+        <Button Grid.Column="1"
+            VerticalAlignment="Top"
+            HorizontalAlignment="Stretch"
+            Margin="2"
+            MinHeight="30"
+                Click="ShowOrders_Click">
+            <TextBlock Text="Show Orders"
+            FontSize="16"/>
+        </Button>
+    </Grid>
+</Window>

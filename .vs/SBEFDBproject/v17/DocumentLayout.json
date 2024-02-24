@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\SBEFDBproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E64F5739-B113-4B80-B13F-FF64E37B5E38}|SBEFDBproject\\SBEFDBproject.csproj|c:\\users\\user\\source\\repos\\sbefdbproject\\sbefdbproject\\appviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64F5739-B113-4B80-B13F-FF64E37B5E38}|SBEFDBproject\\SBEFDBproject.csproj|solutionrelative:sbefdbproject\\appviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64F5739-B113-4B80-B13F-FF64E37B5E38}|SBEFDBproject\\SBEFDBproject.csproj|c:\\users\\user\\source\\repos\\sbefdbproject\\sbefdbproject\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64F5739-B113-4B80-B13F-FF64E37B5E38}|SBEFDBproject\\SBEFDBproject.csproj|solutionrelative:sbefdbproject\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64F5739-B113-4B80-B13F-FF64E37B5E38}|SBEFDBproject\\SBEFDBproject.csproj|c:\\users\\user\\source\\repos\\sbefdbproject\\sbefdbproject\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E64F5739-B113-4B80-B13F-FF64E37B5E38}|SBEFDBproject\\SBEFDBproject.csproj|solutionrelative:sbefdbproject\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64F5739-B113-4B80-B13F-FF64E37B5E38}|SBEFDBproject\\SBEFDBproject.csproj|c:\\users\\user\\source\\repos\\sbefdbproject\\sbefdbproject\\ordersform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E64F5739-B113-4B80-B13F-FF64E37B5E38}|SBEFDBproject\\SBEFDBproject.csproj|solutionrelative:sbefdbproject\\ordersform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64F5739-B113-4B80-B13F-FF64E37B5E38}|SBEFDBproject\\SBEFDBproject.csproj|c:\\users\\user\\source\\repos\\sbefdbproject\\sbefdbproject\\ordersform.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{E64F5739-B113-4B80-B13F-FF64E37B5E38}|SBEFDBproject\\SBEFDBproject.csproj|solutionrelative:sbefdbproject\\ordersform.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64F5739-B113-4B80-B13F-FF64E37B5E38}|SBEFDBproject\\SBEFDBproject.csproj|c:\\users\\user\\source\\repos\\sbefdbproject\\sbefdbproject\\modelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64F5739-B113-4B80-B13F-FF64E37B5E38}|SBEFDBproject\\SBEFDBproject.csproj|solutionrelative:sbefdbproject\\modelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SBEFDBproject\\SBEFDBproject\\OrdersForm.xaml.cs",
+              "RelativeDocumentMoniker": "SBEFDBproject\\OrdersForm.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SBEFDBproject\\SBEFDBproject\\OrdersForm.xaml.cs",
+              "RelativeToolTip": "SBEFDBproject\\OrdersForm.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T18:05:45.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersForm.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SBEFDBproject\\SBEFDBproject\\OrdersForm.xaml",
+              "RelativeDocumentMoniker": "SBEFDBproject\\OrdersForm.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SBEFDBproject\\SBEFDBproject\\OrdersForm.xaml",
+              "RelativeToolTip": "SBEFDBproject\\OrdersForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-24T17:58:07.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModelContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SBEFDBproject\\SBEFDBproject\\ModelContext.cs",
+              "RelativeDocumentMoniker": "SBEFDBproject\\ModelContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SBEFDBproject\\SBEFDBproject\\ModelContext.cs",
+              "RelativeToolTip": "SBEFDBproject\\ModelContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T13:19:09.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SBEFDBproject\\SBEFDBproject\\AppViewModel.cs",
+              "RelativeDocumentMoniker": "SBEFDBproject\\AppViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SBEFDBproject\\SBEFDBproject\\AppViewModel.cs",
+              "RelativeToolTip": "SBEFDBproject\\AppViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T13:05:57.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SBEFDBproject\\SBEFDBproject\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SBEFDBproject\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SBEFDBproject\\SBEFDBproject\\MainWindow.xaml",
+              "RelativeToolTip": "SBEFDBproject\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-22T13:01:40.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SBEFDBproject\\SBEFDBproject\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SBEFDBproject\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SBEFDBproject\\SBEFDBproject\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SBEFDBproject\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T13:01:40.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
